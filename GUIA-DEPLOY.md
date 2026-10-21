@@ -65,6 +65,7 @@ vercel.com → **Add New → Project** → **Import Git Repository** → elegí 
 - [ ] El titular dice "Te llaman todos los días"
 - [ ] El FAQ arranca con "¿Qué tipo de deudas trabajan?"
 - [ ] Hay cuatro testimonios de Instagram
+- [ ] El logo dice ESTUDIO grande y Gonzalez Calafell abajo
 - [ ] Los botones abren WhatsApp al número +54 9 11 5657-3401
 - [ ] El formulario de 3 pasos abre WhatsApp directo al tocar "Enviar mi caso"
 - [ ] `/privacidad` y `/terminos` cargan sin `.html` en la URL
